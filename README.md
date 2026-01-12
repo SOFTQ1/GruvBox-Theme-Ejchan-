@@ -1,4 +1,4 @@
-# Gruvbox Theme for ejchan / vichan
+# Gruvbox Theme for ejchan
 
 Тёмная цветовая схема в стиле [Gruvbox](https://github.com/SOFTQ1/GruvBox-Theme-Ejchan) для имиджборд на движке **ejchan** 
 
